@@ -1,0 +1,14 @@
+@startuml
+left to right direction
+actor Usuario as U
+actor Administrador as A
+rectangle Sistema {
+  U -- (Iniciar sesión)
+  U -- (Realizar búsqueda)
+  U -- (Ver detalles del producto)
+  U -- (Agregar al carrito)
+  U -- (Realizar pago)
+  A -- (Administrar productos)
+  A -- (Administrar usuarios)
+}
+@enduml
