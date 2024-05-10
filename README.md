@@ -1,5 +1,7 @@
 # Diagrama de casos de uso
 
+#### Sistema de compras en línea para una tienda de productos electrónicos. El sistema permitirá a los usuarios buscar productos, ver detalles de los productos, agregarlos al carrito de compras, iniciar sesión y realizar pagos. Además, los administradores podrán gestionar los productos y los usuarios.
+
 En este diagrama:
 - **Usuario (U)**: Representa a los usuarios del sistema, como los clientes que utilizan la aplicación.
 - **Administrador (A)**: Representa a los administradores o personal interno que gestiona el sistema.
